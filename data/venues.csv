@@ -1,0 +1,4 @@
+venue_id,city,open_from,open_to,gallery_id,capacity,attendance_source,estimate_basis
+V-01,江城,2027-03-01,2027-03-28,G-A,180,ticket_scan,same-show-window
+V-02,海州,2027-03-22,2027-04-18,G-C,145,venue-plan,school-holiday
+V-03,松浦,2027-05-02,2027-05-30,G-B,210,ticket_scan,prior-season

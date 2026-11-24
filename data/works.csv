@@ -1,0 +1,4 @@
+work_id,medium,display_days_limit,rest_days,required_temp_band,required_light_band,theme_id
+W-101,ink-on-paper,21,35,stable,low,THEME-1
+W-102,ink-on-paper,28,28,stable,low,THEME-1
+W-203,oil-on-canvas,42,14,stable,medium,THEME-2

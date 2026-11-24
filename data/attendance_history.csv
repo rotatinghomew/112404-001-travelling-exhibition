@@ -1,0 +1,4 @@
+venue_id,period_start,period_end,visitor_count,measurement,show_type,source_ref
+V-01,2025-03-01,2025-03-28,3420,ticket_scan,theatre-art,SRC-11
+V-02,2025-04-01,2025-04-28,2960,manual-estimate,painting,SRC-12
+V-03,2026-05-01,2026-05-28,4100,ticket_scan,painting,SRC-13
